@@ -5,7 +5,7 @@
 ---
 <img src="images/debit.png" width="800">
 ---
-<img src="images/test.png" width="800">
+<img src="images/taxi.png" width="800">
 ---
 <img src="images/it.png"  width="600">
 
