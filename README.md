@@ -7,6 +7,6 @@
 ---
 <img src="images/taxi.png" width="800">
 ---
-<img src="images/it.png"  width="600">
+<img src="images/it.png"  width="800">
 
 
