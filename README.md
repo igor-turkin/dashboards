@@ -1,4 +1,3 @@
-# dashboards
 Демонстрационные дашборды созданные в разных BI системах
 ---
 <img src="images/rep.jpg" width="800">
