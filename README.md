@@ -1,6 +1,6 @@
 ## Демонстрационные дашборды созданные в разных BI системах
 
-### Анализ churn rate e-commerce
+### Анализ bounce rate e-commerce
 <img src="images/churn2.png" width="1000">
 
 ### Анализ способов оплаты e-com
